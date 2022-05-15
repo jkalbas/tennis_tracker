@@ -1,2 +1,7 @@
 test/
 VideoProcessing/
+dist/
+build/
+nbproject/
+build.xml
+manifest.manifestsqpjdbc4-2.0.jar
